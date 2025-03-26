@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning how to build ftc robots
 - 💞️ I’m looking to collaborate on building ftc robots for my team
 - 📫 How to reach me look me up on the orange alliance for ftc robots
-- 😄 Pronouns: FTCROBOTe/FTCROBOTim
-- ⚡ Fun fact: I build ftc tobots
+- 😄 Pronouns: Robot Builder/Robot Slayer
+- ⚡ Fun fact: I build ftc robots
 
 <!---
 Ishaan-InstantBot-26251/Ishaan-InstantBot-26251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
